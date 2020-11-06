@@ -1,0 +1,7 @@
+@font-face{
+	font-family: "bangla";
+	src: url("../font/bangla.eot") format("eot"),
+		 url("../font/bangla.svg") format("svg"),
+		 url("../font/bangla.ttf") format("ttf"),
+		 url("../font/bangla.woff") format("woff");
+}
